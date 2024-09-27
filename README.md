@@ -1,5 +1,7 @@
 # Multiclass Image Classification using CNN and Transfer Learning 🐾
 
+![image](https://github.com/user-attachments/assets/f263144d-8217-48af-87cd-dec0550df33e)
+
 ## 1. Problem Definition
 Develop an image classification model that can accurately classify various dog breeds by analyzing their pictures.
 ## 2. Data Collection
