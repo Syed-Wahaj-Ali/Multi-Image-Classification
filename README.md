@@ -26,7 +26,7 @@ Dataset Link: Dog Breed Identification | Kaggle
 The model achieved a **95%** training accuracy on the full dataset. While it might indicate some overfitting, I didn't go deeply into regularization techniques for this project because of my PC it is too slow. Moreover this dataset was very complex because predicting the same kind of animal is difficult because most of them are almost same. 
 Overall, this project was a fantastic opportunity to deepen my understanding of CNNs and transfer learning, and I’m excited to apply these techniques to even more complex.
 
-## Source link: [https://www.kaggle.com/c/dog-breed-identification/leaderboard]
+Source link: [https://www.kaggle.com/c/dog-breed-identification/leaderboard]
 
 
 
